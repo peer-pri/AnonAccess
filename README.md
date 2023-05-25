@@ -6,6 +6,7 @@ This software is perfect for anyone who wants to gain unauthorized access to som
 
 # All Features:
 • Cmd Control
+
 • Able to turn off device
 • Hide/unhide files and directories
 • View the hosts file
