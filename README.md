@@ -8,13 +8,21 @@ This software is perfect for anyone who wants to gain unauthorized access to som
 • Cmd Control
 
 • Able to turn off device
+
 • Hide/unhide files and directories
+
 • View the hosts file
+
 • View system informations
+
 • Keylogger with options to view status, start, stop and get a log-file to the AnonAccess-Server
+
 • Execute scripts/programms
+
 • Screenshots
+
 • Webcam
+
 • Download/Upload files to and from the target system
 
 
